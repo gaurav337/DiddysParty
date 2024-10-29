@@ -4,6 +4,6 @@ In the ever-evolving world of music, collaboration is key to innovation. Diddy�
 
 Whether you're sketching out a new album, planning your next hit single, or managing collaborations, Diddy’s Party keeps you organized and inspired every step of the way. Join us and elevate your creative process!
 
-🔗 [Link to your website]
+🔗 https://gaurav337.github.io/DiddysParty/index.html
 
 #Music #Collaboration #Creativity #Songwriting #DiddysParty
